@@ -46,9 +46,6 @@ npm run dev
 - A **Bluetooth Low Energy (BLE)** supported device  
 - A **web browser** to access the monitoring dashboard  
 
----
-
-
 
 ---
 
