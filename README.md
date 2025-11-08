@@ -48,10 +48,7 @@ npm run dev
 
 ---
 
-## ▶ Demonstration
 
-Watch the full project walkthrough and explanation on YouTube:  
-➡ [https://www.youtube.com/watch?v=9aQLiUdBN5M](https://www.youtube.com/watch?v=9aQLiUdBN5M)
 
 ---
 
